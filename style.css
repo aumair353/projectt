@@ -1,0 +1,38 @@
+
+.header_login{
+    background: black;
+}
+
+.header_login h1{
+    color: white;
+}
+
+div{
+    margin-bottom: 30px;
+}
+
+.footer1{
+    background: black;
+}
+
+.footer1{
+    margin-top: 15px;
+    color: white;
+}
+
+.footer1_data{
+    color: lightgray;
+}
+
+.footer1_data:hover{
+    color: white;
+}
+
+.footer1 a{
+    color: gray;
+    text-decoration: none;
+}
+
+.footer1 a:hover{
+    color: white;
+}
